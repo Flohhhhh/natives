@@ -13,3 +13,4 @@ BOOL IS_VEHICLE_SIREN_ON(Vehicle vehicle);
 * **vehicle**: 
 
 ## Return value
+Returns false if lights/siren are disabled or 1 if they are enabled.
